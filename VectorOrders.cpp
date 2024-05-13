@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
-// Change this to false when you are ready to submit
+// Change this to false before running
 #define DEBUG false
 
 enum ordertype {LIMIT, MARKET};
