@@ -5,7 +5,6 @@
 
 #include <vector>
 #include <sstream> 
-// Change this to false when you are ready to submit
 
 #define DEBUG false
 
